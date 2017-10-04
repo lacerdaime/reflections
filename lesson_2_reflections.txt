@@ -1,3 +1,4 @@
 Just to have something here.
 
 
+We can look into diff for the staging area files and the last commit to verify that we are only commiting a single logic cchange
