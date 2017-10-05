@@ -2,3 +2,4 @@ Just to have something here.
 
 
 We can look into diff for the staging area files and the last commit to verify that we are only commiting a single logic cchange
+Branches would be helpful when we want to add a new feature or make modifications to the project that have experimental character and would greatly modify it
